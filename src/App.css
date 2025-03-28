@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.rojo {
+  background-color: red !important; /* Usa !important para forzar el estilo */
+  color: white;
+}
+
